@@ -1,0 +1,8 @@
+---
+applications:
+- name: testproject
+  memory: 256M
+  instances: 1
+  host: testproject
+  domain: cfapps.io
+  path: .
